@@ -1,0 +1,5 @@
+sentiment_model.joblib
+tfidf_vectorizer.joblib
+venv/
+__pycache__/
+dataSet.csv
