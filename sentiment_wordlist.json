@@ -1,0 +1,60 @@
+{
+  "love": 10.0, "adoration": 9.99, "perfect": 9.98, "ecstatic": 9.97, "euphoric": 9.96, "blissful": 9.95, "heavenly": 9.94, "sublime": 9.93, "divine": 9.92, "exquisite": 9.91,
+  "amazing": 9.90, "fantastic": 9.89, "wonderful": 9.88, "incredible": 9.87, "awesome": 9.86, "brilliant": 9.85, "excellent": 9.84, "stellar": 9.83, "outstanding": 9.82, "superb": 9.81,
+  "happy": 9.80, "joyful": 9.79, "jubilant": 9.78, "cheerful": 9.77, "radiant": 9.76, "gleeful": 9.75, "lively": 9.74, "delighted": 9.73, "thrilled": 9.72, "glowing": 9.71,
+  "beautiful": 9.70, "kind": 9.69, "generous": 9.68, "honest": 9.67, "friendly": 9.66, "funny": 9.65, "smart": 9.64, "helpful": 9.63, "cute": 9.62, "sweet": 9.61,
+  "lucky": 9.60, "brave": 9.59, "strong": 9.58, "proud": 9.57, "exciting": 9.56, "interesting": 9.55, "relaxing": 9.54, "comfortable": 9.53, "clean": 9.52, "fresh": 9.51,
+  "nice": 9.50, "good": 9.49, "fine": 9.48, "calm": 9.46, "optimistic": 9.45, "content": 9.44, "peaceful": 9.43, "grateful": 9.42, "gentle": 9.41,
+  "charming": 9.40, "fabulous": 9.39, "marvelous": 9.38, "legendary": 9.37, "glorious": 9.36, "elegant": 9.35, "sparkling": 9.34, "vibrant": 9.33, "zesty": 9.32, "bubbly": 9.31,
+  "amused": 9.30, "blessed": 9.29, "caring": 9.28, "devoted": 9.27, "eager": 9.26, "faithful": 9.25, "gracious": 9.24, "harmonious": 9.23, "jovial": 9.22, "jolly": 9.21,
+  "jocular": 9.20, "kindhearted": 9.19, "lighthearted": 9.18,  "merry": 9.16, "peaceable": 9.15, "pleasant": 9.14, "pleased": 9.13, "sincere": 9.12, "vivacious": 9.11,
+
+  "average": 5.00, "okay": 4.98, "fair": 4.97, "moderate": 4.96, "tolerable": 4.95, "passable": 4.94, "decent": 4.93, "ordinary": 4.92, "typical": 4.91,
+  "common": 4.90, "unremarkable": 4.89, "standard": 4.88, "routine": 4.87, "uninteresting": 4.86, "plain": 4.85, "mediocre": 4.84, "predictable": 4.83, "commonplace": 4.82, "uninspired": 4.81,
+  "undistinguished": 4.80, "neutral": 4.79,  "lackluster": 4.77, "flat": 4.76, "bland": 4.75, "dull": 4.74, "tedious": 4.73, "monotonous": 4.72, "lifeless": 4.71,
+  "repetitive": 4.70, "uneventful": 4.69, "stale": 4.68, "unvaried": 4.67, "humdrum": 4.66, "boring": 4.65, "uninvolving": 4.64, "forgettable": 4.63, "insipid": 4.62, "slow": 4.61,
+  "ambivalent": 4.59, "undecided": 4.58,  "vacillating": 4.56, "wavering": 4.55, "indecisive": 4.54, "hesitant": 4.53, "tentative": 4.52, "doubtful": 4.51,
+  
+  "odd": 4.50, "strange": 4.49,  "weird": 4.47, "peculiar": 4.46, "unusual": 4.45, "queer": 4.44, "uncanny": 4.43, "bizarre": 4.42, "eccentric": 4.41,
+   "questionable": 4.38, "dubious": 4.36, "ambiguous": 4.35, "enigmatic": 4.34, "vague": 4.33, "unclear": 4.32, "muddled": 4.31,
+  "confusing": 4.30, "puzzling": 4.29, "complicated": 4.28, "complex": 4.27, "problematic": 4.26, "troublesome": 4.25, "challenging": 4.24, "difficult": 4.23, "hard": 4.22, "tough": 4.21,
+  "stressful": 4.20, "uncomfortable": 4.19, "awkward": 4.18, "painful": 4.17, "unpleasant": 4.16, "disagreeable": 4.15, "annoying": 4.14, "irritating": 4.13, "frustrating": 4.12, "bothersome": 4.11,
+   "vexing": 4.09, "disruptive": 4.08, "disheartening": 4.07, "worrisome": 4.06, "disturbing": 4.05, "upsetting": 4.04, "displeasing": 4.03, "unsatisfactory": 4.02, "inadequate": 4.01,
+  "inferior": 4.00, "substandard": 3.99, "lacking": 3.98, "deficient": 3.97, "incomplete": 3.96, "imperfect": 3.95, "faulty": 3.94, "flawed": 3.93, "broken": 3.92, "damaged": 3.91,
+
+  "bad": -1.00,  "upset": -1.06, "hurt": -1.08, "scared": -1.10, "stressed": -1.12,  "jealous": -1.16,
+   "frightened": -1.30,
+  "panicked": -1.40, "distraught": -1.42,  "miserable": -1.46, "dejected": -1.48, "discouraged": -1.50, "despairing": -1.52, "disgusted": -1.54, "repulsed": -1.56, "horrified": -1.58,
+  "terrified": -1.60, "appalled": -1.62,  "spiteful": -1.72, "rude": -1.78,
+  "mean": -1.80, "selfish": -1.82, "cruel": -1.84, "vindictive": -1.86, "malicious": -1.88, "vicious": -1.90, "barbaric": -1.92, "wicked": -1.94, "nasty": -1.96,
+  "dangerous": -2.00, "evil": -2.02, "sinister": -2.04, "dreadful": -2.06, "ghastly": -2.08, "grisly": -2.10, "horrible": -2.12, "awful": -2.14, "atrocious": -2.16, "abominable": -2.18,
+  "disastrous": -2.20, "catastrophic": -2.22, "devastating": -2.24, "damaging": -2.26, "harmful": -2.28, "destructive": -2.30, "ruinous": -2.32, "deadly": -2.34, "fatal": -2.36, "lethal": -2.38,
+  "poisonous": -2.40, "contaminated": -2.42, "infected": -2.44, "corrupt": -2.46, "dishonest": -2.48, "deceitful": -2.50, "fraudulent": -2.52, "false": -2.54, "phony": -2.56, "fake": -2.58,
+  "counterfeit": -2.60, "untrustworthy": -2.62, "sneaky": -2.64, "crafty": -2.66, "devious": -2.68, "manipulative": -2.70, "conniving": -2.72, "scheming": -2.74, "calculating": -2.76, "treacherous": -2.78,
+  "betraying": -2.80, "disloyal": -2.82, "unfaithful": -2.84, "cheating": -2.86, "lying": -2.88, "stealing": -2.90, "criminal": -2.92, "lawless": -2.94, "brutal": -2.98,
+
+  "brokenhearted": -3.00, "devastated": -3.02, "desperate": -3.04, "helpless": -3.08, "lost": -3.10,  "abandoned": -3.14, "rejected": -3.16, "ignored": -3.18,
+  "neglected": -3.20, "excluded": -3.24, "unloved": -3.26, "unwanted": -3.28, "shunned": -3.30, "ostracized": -3.32, "scorned": -3.34, "humiliated": -3.36, "embarrassed": -3.38,
+  "ashamed": -3.40, "guilty": -3.42, "regretful": -3.44, "remorseful": -3.46, "repentant": -3.48, "contrite": -3.50, "sorry": -3.52, "apologetic": -3.54, "penitent": -3.56, "downcast": -3.58,
+
+  "fearful": -3.60, "timid": -3.62, "nervous": -3.64, "anxious": -3.66, "worried": -3.68, "concerned": -3.70, "uneasy": -3.72, "tense": -3.74, "apprehensive": -3.76, 
+  "shaky": -3.80, "uncertain": -3.82, "doubtful": -3.84, "skeptical": -3.86, "cautious": -3.88, "alert": -3.90, "watchful": -3.92, "wary": -3.94, "vigilant": -3.96, "paranoid": -3.98,
+
+  "depressed": -4.00, "melancholy": -4.02, "blue": -4.04, "sad": -4.06, "down": -4.08, "gloomy": -4.10, "morose": -4.12, "mournful": -4.14, "heartbroken": -4.16, "woeful": -4.18,
+  "tragic": -4.20, "grief": -4.22, "sorrow": -4.24, "anguish": -4.26, "despair": -4.28, "hopeless": -4.30, "lonely": -4.32, "isolated": -4.34, "desolate": -4.36, "forsaken": -4.38,
+
+  "angry": -4.40, "mad": -4.42, "furious": -4.44, "enraged": -4.46, "outraged": -4.48, "irate": -4.50, "incensed": -4.52, "fuming": -4.54, "livid": -4.56, "wrathful": -4.58,
+  "resentful": -4.60, "bitter": -4.62, "hostile": -4.64, "antagonistic": -4.66, "aggressive": -4.68, "combative": -4.70, "defiant": -4.72, "provoked": -4.74, "offended": -4.76, "annoyed": -4.78,
+  "frustrated": -4.80, "irritated": -4.82, "displeased": -4.84, "disgruntled": -4.86, "discontented": -4.88, "aggravated": -4.90, "indignant": -4.94, "vexed": -4.98,
+
+  "hate": -10.0, "detest": -9.99, "loathe": -9.98, "despise": -9.97, "abhor": -9.96, "execrate": -9.95, "disdain": -9.94, "revile": -9.93, "scorn": -9.92, "disgust": -9.91,
+  "contempt": -9.90,  "antipathy": -9.88, "animosity": -9.87, "enmity": -9.86, "rancor": -9.85, "malice": -9.84, "spite": -9.83, "malevolence": -9.82, "vengefulness": -9.81,
+  "wrath": -9.80, "rage": -9.79, "fury": -9.78, "resentment": -9.77, "bitterness": -9.76, "grudge": -9.75, "jealousy": -9.74, "envy": -9.73, "hatred": -9.72, 
+"spitefulness": -9.69, "maliciousness": -9.68, "vindictiveness": -9.67, "cruelty": -9.66, "barbarity": -9.65, "atrocity": -9.64, "inhumanity": -9.63, "brutality": -9.62, "savagery": -9.61,
+  "sadism": -9.60, "venom": -9.59, "poison": -9.58, "toxic": -9.57, "hostility": -9.56, "anarchy": -9.55, "chaos": -9.54, "destruction": -9.53, "devastation": -9.52, "ruin": -9.51,
+
+  
+  "hopeful": 7.0, "serene": 6.9, "playful": 6.8, "energetic": 6.7, "vivid": 6.6, "enthusiastic": 6.5, "curious": 6.4, "bright": 6.3, "luminous": 6.2, 
+  
+  "apathetic": 0.0, "bored": -0.1, "disinterested": -0.2, "indifferent": -0.3, "blasé": -0.4, "unconcerned": -0.5, "detached": -0.6, "aloof": -0.7, "dispassionate": -0.8, "unmoved": -0.9
+}
